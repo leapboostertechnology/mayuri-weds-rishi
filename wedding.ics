@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayuri Weds Rishi//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mayuri-rishi-wedding-20261202@invitation
+DTSTAMP:20261103T000000Z
+DTSTART:20261202T063300Z
+DTEND:20261202T093300Z
+SUMMARY:Wedding of Mayuri & Rishi
+DESCRIPTION:Shubh Muhurat 12:03 PM\, Wednesday 2 December 2026.\nDirections
+ : https://maps.app.goo.gl/CcKQsTnHzHZ4N6257
+LOCATION:NS Unde Function Hall\, Haladkeri\, Bidar\, Karnataka 585403
+URL:https://maps.app.goo.gl/CcKQsTnHzHZ4N6257
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mayuri & Rishi's wedding is tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
